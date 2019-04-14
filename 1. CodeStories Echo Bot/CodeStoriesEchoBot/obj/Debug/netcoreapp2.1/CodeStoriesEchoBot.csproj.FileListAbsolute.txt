@@ -1,0 +1,15 @@
+C:\Users\georg\source\repos\CodeStoriesEchoBot\CodeStoriesEchoBot\bin\Debug\netcoreapp2.1\CodeStoriesEchoBot.bot
+C:\Users\georg\source\repos\CodeStoriesEchoBot\CodeStoriesEchoBot\bin\Debug\netcoreapp2.1\CodeStoriesEchoBot.deps.json
+C:\Users\georg\source\repos\CodeStoriesEchoBot\CodeStoriesEchoBot\bin\Debug\netcoreapp2.1\CodeStoriesEchoBot.runtimeconfig.json
+C:\Users\georg\source\repos\CodeStoriesEchoBot\CodeStoriesEchoBot\bin\Debug\netcoreapp2.1\CodeStoriesEchoBot.runtimeconfig.dev.json
+C:\Users\georg\source\repos\CodeStoriesEchoBot\CodeStoriesEchoBot\bin\Debug\netcoreapp2.1\CodeStoriesEchoBot.dll
+C:\Users\georg\source\repos\CodeStoriesEchoBot\CodeStoriesEchoBot\bin\Debug\netcoreapp2.1\CodeStoriesEchoBot.pdb
+C:\Users\georg\source\repos\CodeStoriesEchoBot\CodeStoriesEchoBot\obj\Debug\netcoreapp2.1\CodeStoriesEchoBot.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\CodeStoriesEchoBot\CodeStoriesEchoBot\obj\Debug\netcoreapp2.1\CodeStoriesEchoBot.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\CodeStoriesEchoBot\CodeStoriesEchoBot\obj\Debug\netcoreapp2.1\CodeStoriesEchoBot.RazorAssemblyInfo.cache
+C:\Users\georg\source\repos\CodeStoriesEchoBot\CodeStoriesEchoBot\obj\Debug\netcoreapp2.1\CodeStoriesEchoBot.RazorAssemblyInfo.cs
+C:\Users\georg\source\repos\CodeStoriesEchoBot\CodeStoriesEchoBot\obj\Debug\netcoreapp2.1\CodeStoriesEchoBot.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\CodeStoriesEchoBot\CodeStoriesEchoBot\obj\Debug\netcoreapp2.1\CodeStoriesEchoBot.AssemblyInfo.cs
+C:\Users\georg\source\repos\CodeStoriesEchoBot\CodeStoriesEchoBot\obj\Debug\netcoreapp2.1\CodeStoriesEchoBot.RazorTargetAssemblyInfo.cache
+C:\Users\georg\source\repos\CodeStoriesEchoBot\CodeStoriesEchoBot\obj\Debug\netcoreapp2.1\CodeStoriesEchoBot.dll
+C:\Users\georg\source\repos\CodeStoriesEchoBot\CodeStoriesEchoBot\obj\Debug\netcoreapp2.1\CodeStoriesEchoBot.pdb
